@@ -4,6 +4,8 @@ Plant diseases have long been a formidable adversary for farmers worldwide. Thes
 
 In this project, I use computer vision to automatically detect dieseases in leaves. This technology empowers farmers to tackle diseases efficiently, reduce losses, and contribute to sustainable farming practices.
 
+Below are some results of disease classification on vaious kinds of plants:
+
 ### Results
 
 ![plantdisease](https://github.com/sairagillani18k/Leaf-disease-detection/assets/58274863/363aa95d-de1c-43e8-b911-45b5ad859e27)
